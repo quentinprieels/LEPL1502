@@ -1,47 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd8b5544-67af-40c7-abce-eba6e3d5dd7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/1_bobine_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/2_amplificateur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/3_filtre.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/4_comparateur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/5_comparateur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/5_interrupteur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/6_bobine_repulsion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_01.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_02.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_03.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_04.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_05.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_06.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_07.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_08.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_09.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_10.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_11.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_12.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_13.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_14.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_15.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_16.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_17.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_18.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_19.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_20.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_21.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_22.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_23.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_24.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_25.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_26.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_27.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_28.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_29.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_30.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_31.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_32.csv" afterDir="false" />
+    <list default="true" id="cd8b5544-67af-40c7-abce-eba6e3d5dd7a" name="Default Changelist" comment="Coucou">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Programmes/approximations/0_global.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Programmes/approximations/0_global.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Programmes/approximations/1_bobine_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Programmes/approximations/1_bobine_detection.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +38,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -85,8 +55,30 @@
       <option name="presentableId" value="Default" />
       <updated>1616961388431</updated>
       <workItem from="1616961391272" duration="219000" />
-      <workItem from="1617260912334" duration="278000" />
+      <workItem from="1617260912334" duration="3262000" />
     </task>
+    <task id="LOCAL-00001" summary="Simulation files update">
+      <created>1617261349734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617261349734</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Unverioned files">
+      <created>1617261386534</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617261386534</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Coucou">
+      <created>1617261512559</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617261512559</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,5 +98,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Simulation files update" />
+    <MESSAGE value="Unverioned files" />
+    <MESSAGE value="Coucou" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coucou" />
   </component>
 </project>
