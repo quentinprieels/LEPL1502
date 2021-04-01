@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd8b5544-67af-40c7-abce-eba6e3d5dd7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/1_bobine_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/2_amplificateur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/3_filtre.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/4_comparateur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/5_comparateur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/5_interrupteur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/6_bobine_repulsion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_02.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_03.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_04.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_05.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_06.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_07.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_08.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_09.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_16.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_17.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_18.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_19.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_20.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_21.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_22.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_23.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_24.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_25.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_26.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_27.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_28.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_29.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_30.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_31.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_32.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qOrHEViYlALub8LTgGA8nEDNbC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd8b5544-67af-40c7-abce-eba6e3d5dd7a" name="Default Changelist" comment="" />
+      <created>1616961388431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616961388431</updated>
+      <workItem from="1616961391272" duration="219000" />
+      <workItem from="1617260912334" duration="278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
